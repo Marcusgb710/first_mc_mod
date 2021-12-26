@@ -1,5 +1,6 @@
 package com.bytesized.firstmod;
 
+import com.bytesized.firstmod.item.ModItems;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.common.MinecraftForge;
@@ -29,6 +30,10 @@ public class FirstMod
     public FirstMod() {
         // Register the setup method for modloading
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        ModItems.register(eventBus);
+
+
         eventBus.addListener(this::setup);
 
         // Register ourselves for server and other game events we are interested in
