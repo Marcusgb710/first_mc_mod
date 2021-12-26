@@ -1,5 +1,6 @@
 package com.bytesized.firstmod;
 
+import com.bytesized.firstmod.block.ModBlocks;
 import com.bytesized.firstmod.item.ModItems;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
@@ -32,6 +33,7 @@ public class FirstMod
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(eventBus);
+        ModBlocks.register(eventBus);
 
 
         eventBus.addListener(this::setup);

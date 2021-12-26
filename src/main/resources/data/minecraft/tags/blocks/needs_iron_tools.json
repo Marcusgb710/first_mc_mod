@@ -1,0 +1,9 @@
+{
+  "replace":false,
+  "values": [
+    "firstmod:titanium_ore",
+    "firstmod:titanium_block",
+    "firstmod:neon_ore",
+    "firstmod:neon_block"
+  ]
+}

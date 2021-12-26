@@ -1,5 +1,24 @@
 {
   "item.firstmod.titanium_ingot": "Titanium Ingot",
   "item.firstmod.titanium_nugget": "Titanium Nugget",
-  "item.firstmod.raw_titanium": "Raw Titanium"
+  "item.firstmod.raw_titanium": "Raw Titanium",
+  "item.firstmod.neon_ingot": "Neon Ingot",
+  "item.firstmod.neon_nugget": "Neon Nugget",
+  "item.firstmod.raw_neon": "Raw Neon",
+
+
+  "item.firstmod.smart_blow_torch": "Smart Blow Torch",
+
+
+  "item.firstmod.tomato": "Tomato",
+
+
+  "block.firstmod.titanium_block": "Titanium Block",
+  "block.firstmod.titanium_ore": "Titanium Ore",
+  "block.firstmod.neon_ore": "Neon Ore",
+  "block.firstmod.neon_block": "Neon Block",
+
+
+
+  "itemGroup.firstModTab": "Tutorial Tab"
 }
