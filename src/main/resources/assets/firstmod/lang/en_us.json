@@ -5,6 +5,26 @@
   "item.firstmod.neon_ingot": "Neon Ingot",
   "item.firstmod.neon_nugget": "Neon Nugget",
   "item.firstmod.raw_neon": "Raw Neon",
+  "item.firstmod.titanium_pickaxe": "Titanium Pickaxe",
+  "item.firstmod.titanium_axe": "Titanium Axe",
+  "item.firstmod.titanium_shovel": "Titanium Shovel",
+  "item.firstmod.titanium_hoe": "Titanium Hoe",
+  "item.firstmod.titanium_sword": "Titanium Sword",
+  "item.firstmod.titanium_helmet": "Titanium Helmet",
+  "item.firstmod.titanium_chestplate": "Titanium Chestplate",
+  "item.firstmod.titanium_boots": "Titanium Boots",
+  "item.firstmod.titanium_leggings": "Titanium Leggings",
+  "item.firstmod.neon_pickaxe": "Neon Pickaxe",
+  "item.firstmod.neon_axe": "Neon Axe",
+  "item.firstmod.neon_shovel": "Neon Shovel",
+  "item.firstmod.neon_hoe": "Neon Hoe",
+  "item.firstmod.neon_sword": "Neon Sword",
+  "item.firstmod.neon_helmet": "Neon Helmet",
+  "item.firstmod.neon_chestplate": "Neon Chestplate",
+  "item.firstmod.neon_boots": "Neon Boots",
+  "item.firstmod.neon_leggings": "Neon Leggings",
+
+
 
 
   "item.firstmod.smart_blow_torch": "Smart Blow Torch",
@@ -17,8 +37,9 @@
   "block.firstmod.titanium_ore": "Titanium Ore",
   "block.firstmod.neon_ore": "Neon Ore",
   "block.firstmod.neon_block": "Neon Block",
+  "block.firstmod.speedy_block": "Speedy Fast Af Bois Block",
 
 
 
-  "itemGroup.firstModTab": "Tutorial Tab"
+  "itemGroup.first_mod_tab": "Tutorial Tab"
 }

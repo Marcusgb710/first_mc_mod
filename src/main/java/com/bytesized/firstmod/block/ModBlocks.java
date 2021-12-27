@@ -1,6 +1,7 @@
 package com.bytesized.firstmod.block;
 
 import com.bytesized.firstmod.FirstMod;
+import com.bytesized.firstmod.block.custom.SpeedyBlock;
 import com.bytesized.firstmod.item.ModCreativeModeTab;
 import com.bytesized.firstmod.item.ModItems;
 import net.minecraft.world.item.BlockItem;
@@ -22,6 +23,13 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> TITANIUM_BLOCK = registerBlock("titanium_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(2f)
+                    .requiresCorrectToolForDrops()
+
+            ), CreativeModeTab.TAB_MATERIALS);
+
+    public static final RegistryObject<Block> SPEEDY_BLOCK = registerBlock("speedy_block",
+            () -> new SpeedyBlock(BlockBehaviour.Properties.of(Material.METAL)
                     .strength(2f)
                     .requiresCorrectToolForDrops()
 

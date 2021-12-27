@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTF",
+    "T  ",
+    "T  "
+  ],
+  "key": {
+    "T": {
+      "item": "firstmod:titanium_ingot"
+    },
+    "F": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "firstmod:smart_blow_torch"
+  }
+}
